@@ -23,7 +23,7 @@ programa {/*1. Faça um sistema que leia a idade de uma pessoa expressa em anos,
 
 		total = (diasAnos) + (diasMeses) + dias
 
-		escreva("Você viveu ", total , " dias!")
+		escreva(" Oi Você viveu ", total , " dias!")
 		
 
 		
@@ -34,7 +34,7 @@ programa {/*1. Faça um sistema que leia a idade de uma pessoa expressa em anos,
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 155; 
+ * @POSICAO-CURSOR = 491; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
