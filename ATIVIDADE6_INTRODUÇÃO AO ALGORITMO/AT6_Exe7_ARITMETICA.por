@@ -37,7 +37,7 @@ Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os v
 
 		y = (a*f) - (c*d) / (a*e1) - (b*d)
 
-		escreva("O resultado de X é " + x + " e Y é " + y)
+		escreva("Oi resultado de X é " + x + " e Y é " + y)
 		
 	}
 }
@@ -46,7 +46,7 @@ Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os v
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 237; 
+ * @POSICAO-CURSOR = 691; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
