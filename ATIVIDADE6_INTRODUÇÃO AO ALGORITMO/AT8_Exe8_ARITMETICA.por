@@ -15,7 +15,7 @@ escrever um sistema que leia o custo de fábrica de um carro e escreva o custo a
 		total2 = custoCarro * porcentImp
 		total3 = custoCarro + total1 + total2
 
-		escreva("O custo para o consumidor será de R$ " + total3)
+		escreva("Oi custo para o consumidor será de R$ " + total3)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -23,7 +23,7 @@ escrever um sistema que leia o custo de fábrica de um carro e escreva o custo a
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 613; 
+ * @POSICAO-CURSOR = 679; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
