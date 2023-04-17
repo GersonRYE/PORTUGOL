@@ -12,7 +12,7 @@ programa /* PARA 1- A prefeitura de uma cidade fez uma pesquisa entre 20 de seus
 	{
 		cadeia nome
 		inteiro  totalF = 0, mediaF = 0
-		inteiro cont, hab = 3
+		inteiro cont, hab = 20
 		real mediaSalPop = 0.0, salarioM = 0.0, maior = 0.0, filho = 0.0
 		real salario = 0.0
 		real totalS = 0.0, cont100 = 0.0, perc100 = 0.0
@@ -60,7 +60,7 @@ programa /* PARA 1- A prefeitura de uma cidade fez uma pesquisa entre 20 de seus
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 330; 
+ * @POSICAO-CURSOR = 427; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -1,4 +1,6 @@
-programa
+programa /*7) Receber valores de base e altura de um triângulo e verificar se são valores válidos (positivos maiores que zero). 
+Em caso afirmativo, calcular a área do triângulo.
+*/
 {
 	
 	funcao inicio()
@@ -27,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 156; 
+ * @POSICAO-CURSOR = 231; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
